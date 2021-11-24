@@ -8,7 +8,7 @@ public class FirstProgram {
 		// TODO Auto-generated method stub
 		/* int a = 1;
 		int b = 2;
-		System.out.println("Hello Word " + (a+b)); */
+		System.out.println("Hello Word  " + (a+b)); */
 		
 		Gato gato = new Gato();
 		System.out.println(gato);
